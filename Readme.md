@@ -35,3 +35,23 @@ Citations:
 [5] https://law.unimelb.edu.au/__data/assets/pdf_file/0005/1708241/27_1_3.pdf
 
 [6] https://www.woollahra.nsw.gov.au/library/local_history/world_war_2/stories_from_woollahra/at_war_again
+
+
+### My 3 Sub-Questions
+
+1. **National Securities Act of 1939**
+   - What were the key provisions and objectives of the National Securities Act of 1939?
+   - How did this act impact the financial and economic landscape in the United States during that time?
+   - What were the historical circumstances and events that led to the enactment of this legislation?
+
+2. **Censorship of the Media**
+   - What were the main reasons and motivations behind the government's decision to censor the media?
+   - How did media outlets and journalists react to censorship, and what was the public's response?
+
+3. **Detention of Japanese, German, and Italian Residents**
+   - Why and when were Japanese, German, and Italian residents detained during World War II in the United States?
+   - What were the conditions and experiences of those who were detained, and how were they treated?
+
+4. **Manpower Controls**
+   - What were the manpower controls implemented in the United States during World War II?
+   - How did these controls affect the workforce, industries, and the overall economy?
