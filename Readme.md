@@ -22,7 +22,8 @@ The National Securities Act 1939 was enacted in response to the outbreak of Worl
 
 In conclusion, the National Securities Act 1939 was a critical piece of legislation that enabled the Australian Government to mobilise the country's resources and labor force during World War II. The Act gave the government unprecedented powers to regulate and control various aspects of the economy and society, and it had a significant impact on the financial and economic landscape in Australia during the war. The Act was enacted in response to the outbreak of World War II and the perceived threat of invasion by Japan, and it was influenced by the experiences of World War I.
 
-Citations:
+
+## Citations
 
 [1] https://anzacportal.dva.gov.au/wars-and-missions/world-war-ii-1939-1945/resources/all-australian-homefront-1939-1945/living-war
 
@@ -37,7 +38,7 @@ Citations:
 [6] https://www.woollahra.nsw.gov.au/library/local_history/world_war_2/stories_from_woollahra/at_war_again
 
 
-### My 3 Sub-Questions
+## My 3 Sub-Questions
 
 1. **National Securities Act of 1939**
    - What were the key provisions and objectives of the National Securities Act of 1939?
